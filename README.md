@@ -1,1 +1,1 @@
-# Linux-Tips
+Tips for Linux systems
