@@ -1,1 +1,4 @@
 $ setxkbmap -model abnt2 -layout br
+
+$ nano ~/.profile
+  setxkbmap -layout br -variant abnt2
